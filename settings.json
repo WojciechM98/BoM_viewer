@@ -1,0 +1,12 @@
+{
+  "columns": {
+    "Qty": "Qty",
+    "Reference": "Reference",
+    "Value": "Value",
+    "Footprint": "Footprint",
+    "Manufacturer": "Manufacturer",
+    "Manufacturer Part Number": "Manufacturer Part Number",
+    "Mouser": "Mouser",
+    "TME": "TME"
+  }
+}
